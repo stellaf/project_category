@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <openerp>
     <data>
-
         <record id="project_type_search" model="ir.ui.view">
             <field name="name">project_type.search.inherit</field>
             <field name="model">project.project</field>

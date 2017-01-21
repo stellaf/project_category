@@ -9,7 +9,6 @@
             <field name="view_mode">tree,form</field>
         </record>
 
-
         <menuitem name="Type"
             id="category"
             parent="project.menu_project_config"
